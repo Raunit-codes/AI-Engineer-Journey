@@ -1,6 +1,0 @@
-Python
-NumPy
-pandas
-Machine Learning
-Deep Learning
-Computer Vision
